@@ -1,1 +1,69 @@
+{
+	"basics": {
+		"name": "Nivi Upadhyay",
+		"label": "Student",
+		"picture": "---Enter Image URL----",
+		"email": "2018kuec2051@iiitkota.ac.in",
+		"phone": "(+91) 9660480578",
+		"website": "bit.ly/nivi-upadhyay",
+		"summary": "Final year undergrad at Indian Institute of Information Technology,Kota pursuing B.Tech in Electronics and CommunicationEngineering, My interest lies in making user experience seamlessand bringing up a user-centric design while promoting intuitive andsimple user interfaces.",
+		"location": {
+			"address": "A-304, Shikhar Appt., opposite home school",
+			"postalCode": "364001",
+			"city": "Bhavnagar",
+			"countryCode": "India",
+			"region": "Gujarat"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "handle",
+				"url": "https://www.twitter.com/<handle>"
+			},
+			{
+				"network": "Github",
+				"username": "handle",
+				"url": "https://www.github.com/<handle>/"
+			},
+			{
+				"network": "linkedin",
+				"username": "username",
+				"url": "https://www.linkedin.com/in/nivi-upadhyay-4b81b617a/"
+			},
+			{
+				"network": "Instagram",
+				"username": "handle",
+				"url": "https://instagram.com/cartoon_chirp"
+			}
+		]
+	},
+	"work": [{
+		"company": "Indesee",
+		"position": "UI/UX Design Intern",
+		"website": "----",
+		"startDate": "2021-02-013//Take care about Date Format",
+		"endDate": "2021-8-13 // ",
+		"summary": "Indeses is a software solution company",
+		"highlights": ["I have designed various websitesand applications for different clients."]
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2018-04-08 //Date",
+		"endDate": "22-06-01",
+		"gpa": "8.54",
+		"courses": [
+			"Electronics and communication Engineering"
+		]
+	}],
 
+	"skills": [{
+		"level": "Master",
+		"keywords": ["C/C++", "HTML", "CSS", "Arduino","VHDL","MySQL","Figma","AdobeXD","Sketch","Invision","Adobe Illustrator"]
+	}],
+	"interests": [{
+		"name": "Music",
+		"keywords": ["Violin"]
+	}],
+	"references": []
+}
